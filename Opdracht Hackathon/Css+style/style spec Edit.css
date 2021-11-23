@@ -1,0 +1,130 @@
+body{
+    background-color: black;
+}
+
+header{
+    font-size: 35px;
+    color: red;   
+    margin: auto;
+    text-align: center;
+}
+
+li{
+    color: red;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 80%;
+    margin: auto;
+}
+
+.box-1{
+    Margin:1px;
+    margin-bottom: 2px;
+    border: 10px red dotted;
+    padding: 10px;
+    padding-bottom: 2px;
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Garamond";    
+}
+
+.box-1 h2{
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', serif;
+    color: green;
+}
+
+.box-1 p{
+    font-style: italic;
+    font-size: 30px;
+}
+
+.box-2{
+    margin:40px;
+    border: 10px red double;
+    padding: 5px; 
+    Float: left;
+    max-width: 25%;
+    text-align: center;   
+    color: yellow;
+    font-size: 18px;
+    font-family: "brush script";   
+}
+
+.box-2 h3{
+    font-size: 25px;
+    font-family:'lobster', cursive;
+    text-decoration: underline;
+    color: palegreen;
+}
+
+.box-3 h3{
+    font-size: 25px;
+    font-family:'lobster', cursive;
+    text-decoration: underline;
+    color: palegreen;
+}
+
+.box-3{
+    margin:50px;
+    border: 10px red double;
+    padding: 5px; 
+    Float: right;
+    max-width: 25%;
+    text-align: center;   
+    color: yellow;
+    font-size: 18px;
+    font-family: "brush script";   
+}
+
+.box-4 h3{
+    font-size: 25px;
+    font-family:'lobster', cursive;
+    text-decoration: underline;
+    color: palegreen;
+}
+
+.box-4{
+    margin: 30px;
+    border: 10px red double;
+    padding: 5px; 
+    Float:right;
+    max-width: 55%;
+    text-align: center;   
+    color: yellow;
+    font-size: 18px;
+    font-family: "brush script";   
+}
+
+.box-5 h3{
+    font-size: 25px;
+    font-family:'lobster', cursive;
+    text-decoration: underline;
+    color: palegreen;
+}
+
+.box-5 h4{
+    font-size: 15px;
+    font-family:'lobster', cursive;
+    font-style: italic;
+    color: palegreen;
+}
+.box-5{
+    margin: 30px;
+    border: 10px red double;
+    padding: 5px; 
+    Float:left;
+    max-width: 75%;
+    text-align: center;   
+    color: yellow;
+    font-size: 18px;
+    font-family: "brush script";   
+}

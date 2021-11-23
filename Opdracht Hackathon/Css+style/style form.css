@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+}
+
+header{
+    font-size: 35px;
+    text-align: center;
+    color: palevioletred;   
+    margin: 1px;
+}
+
+h2{
+    margin-top: 1px;
+    font-size: 24px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', serif;
+    color:rebeccapurple;
+}
+
+Ul,li{
+    color: red;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.my-form{
+    margin-left: 35px;
+    margin-right: 35px;
+    padding: 5px 10px;
+    color: lightskyblue;
+    font-size: 20px;
+}
+
+.block{
+    margin-bottom: 35px;
+    padding: 5px;
+    float: left;
+    max-width: 33.3%;
+    float: left;
+    color: lightskyblue;
+    box-sizing: border-box;
+}
+
+.my-form input[type="submit"]{
+    margin: 25px;
+    border: dashed 5px;
+    padding: 10px 25px;
+    float: right;
+    background-color: lightcoral;
+    font-size: 15px;
+    color: black;   
+}
+
+.my-form input[type="submit"]:hover{
+    background-color: purple;
+    color:greenyellow;
+}
+
